@@ -14,4 +14,6 @@
 | [mstack](mstack)       | 状态机实现的单调栈   |
 | [filesystem](filesystem)       | 文件系统命令测试， 终端命令   |
 | [bitset](bitset)       | C++11 bitset 测试   |
+| [count_change](count_change)       | 硬币组合问题，Python记忆体实现 |
+| [fast_exp](fast_exp)      | 求幂指数运算 |
 
