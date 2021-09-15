@@ -15,3 +15,4 @@ PCB_IPC/shm/write
 PCB_IPC/sem/read
 PCB_IPC/sem/write
 bitset/bitset
+adder/adder

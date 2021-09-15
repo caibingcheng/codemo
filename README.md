@@ -17,4 +17,5 @@
 | [count_change](count_change)       | 硬币组合问题，Python记忆体实现 |
 | [fast_exp](fast_exp)      | 求幂指数运算 |
 | [calc_lan](calc_lan)      | Python实现计算器语言，四则组合运算 |
+| [adder](adder)      | C++求和，链式调用 |
 
