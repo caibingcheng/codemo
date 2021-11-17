@@ -1,3 +1,4 @@
+.vscode
 PCB_IPC/signal/signal
 PCB_IPC/signal/kill
 PCB_IPC/fork/fork
@@ -16,3 +17,5 @@ PCB_IPC/sem/read
 PCB_IPC/sem/write
 bitset/bitset
 adder/adder
+coroutine/coroutine
+abort/main
